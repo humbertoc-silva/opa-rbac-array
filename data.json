@@ -1,0 +1,12 @@
+{
+  "rbac": {
+    "tuples": [
+      ["bob",   "teller",     "read_something"],
+      ["alice", "manager",    "read_something"],
+      ["alice", "manager",    "write_something"],
+      ["john",  "teller",     "read_something"],
+      ["john",  "supervison", "delete_something"],
+      ["john",  "supervison", "print_something"]
+    ]
+  }
+}
